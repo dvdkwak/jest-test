@@ -1,0 +1,14 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Kwakernaak",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  }
+}
